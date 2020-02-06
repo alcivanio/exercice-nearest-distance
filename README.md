@@ -12,7 +12,7 @@ Let's go through some possibly situations an answers now.
 
 ```swift
 "dog" & "house" = 1
-"dog" & "dog" = "0"
+"dog" & "dog" = 0
 "house" & "beach" = 4
 ```
 Ok so let's go to the algorithm. First of all we're going to create a class wrapper to contain our information. We'll call it `NearestIndexFinder`. The initializer of this class will receive the list of elements. Here's where our algorithm will start work. But before let's thing a little about the problem.

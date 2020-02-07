@@ -1,5 +1,7 @@
 # Find nearest distance between two elements
 
+Note that I don't update the Read me file often. Please check my Medium, there you may have updates in any matter about this problem: https://medium.com/@Alcivanio/how-to-write-an-algorithm-to-find-the-shortest-distance-between-two-elements-of-an-array-in-swift-a405aded3304
+
 Today I was presented to this problem. Basically given a list of elements, I'd have to find the nearest distance between two elements of that list. 
 
 You can see an example of given list. Notice that we're not talking about a set. which means that elements could possibly repeat.
